@@ -1,0 +1,11 @@
+*{
+    margin: 5px 5px;
+}
+.h1{
+    font-size: 65px;
+    font-weight: lighter
+}
+
+.recommend{
+    line-height: 35px;
+}
